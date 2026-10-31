@@ -1,32 +1,32 @@
-<p align="center"><img src="banner.svg" alt="Marc Rodríguez — Curious mind. Useful builds." width="100%"></p>
+<p align="center"><img src="banner.svg" alt="Marc Rodríguez — Ideas curiosas. Proyectos útiles." width="100%"></p>
 
-<h1 align="center">Hey, I'm Marc 👋</h1>
-<p align="center"><strong>Turning “what if?” into something you can use.</strong></p>
-<p align="center">AI experiments · Practical automation · Open-source tools</p>
+<h1 align="center">Hola, soy Marc 👋</h1>
+<p align="center"><strong>Convierto ideas curiosas en herramientas que puedes utilizar.</strong></p>
+<p align="center">Inteligencia artificial · Automatización práctica · Código abierto</p>
 
 ---
 
-### 🛠️ What I'm building
+### 🛠️ Qué estoy construyendo
 
-I like projects that solve a real annoyance: fewer repetitive tasks, less friction, and more control over the technology we own. This is where I build, test and share those ideas.
+Me interesan los proyectos que resuelven una molestia real: menos tareas repetitivas, menos complicaciones y más control sobre la tecnología que utilizamos. Aquí construyo, pruebo y comparto esas ideas.
 
 **[CleanMyXiaomi →](https://github.com/Mrcram1999/CleanMyXiaomi)**  
-An AI-guided project for Xiaomi, Redmi and POCO: inspect your phone, understand the proposed changes, and keep a way back. Audit first. Explicit consent. No root.
+Un proyecto guiado por IA para Xiaomi, Redmi y POCO: revisa tu teléfono, entiende los cambios propuestos y conserva una forma de volver atrás. Primero auditar. Después, aprobar expresamente. Sin root.
 
-> Early alpha: auditing is available. Real-device cleanup profiles still need testing and review.
+> Versión alfa: la auditoría está disponible. Los perfiles de limpieza todavía necesitan pruebas y revisión en teléfonos reales.
 
-### 🔎 Things I'm exploring
+📖 **[Guía paso a paso para empezar](https://github.com/Mrcram1999/CleanMyXiaomi#empieza-aquí)**
 
-| AI that does useful work | Technology you control | Building in public |
+### 🔎 Qué estoy explorando
+
+| IA que hace cosas útiles | Tecnología bajo tu control | Compartir el proceso |
 | --- | --- | --- |
-| Agents and practical workflows | Android, privacy and reversible changes | Small tools, clear docs and honest limitations |
+| Agentes y automatización de tareas | Android, privacidad y cambios reversibles | Herramientas pequeñas, documentación clara y límites explicados |
 
-### 👋 También en castellano
+### 💬 Ideas y mejoras
 
-Soy Marc. Me interesan los proyectos que convierten una idea curiosa en algo útil: automatizar tareas, experimentar con IA y recuperar el control de nuestros dispositivos.
-
-Aquí comparto lo que voy construyendo, con sus avances y sus límites. Si tienes una idea o encuentras algo que mejorar, abre una issue en el proyecto correspondiente.
+Si tienes una idea o encuentras algo que mejorar, abre una incidencia en el proyecto correspondiente. Me interesa compartir tanto lo que funciona como lo que todavía necesita trabajo.
 
 ---
 
-<p align="center"><sub>Build something useful. Explain it clearly. Keep improving.</sub></p>
+<p align="center"><sub>Construir algo útil. Explicarlo bien. Seguir mejorándolo.</sub></p>
